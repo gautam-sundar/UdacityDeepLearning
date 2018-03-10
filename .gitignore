@@ -1,1 +1,5 @@
 *.ipynb_checkpoints
+*.tar.gz
+*.swp
+notMNIST_large/
+notMNIST_small/
